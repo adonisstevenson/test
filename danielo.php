@@ -1,6 +1,6 @@
 <?php
 
-print("something");
+print("huj");
 
 
 ?>
