@@ -1,0 +1,6 @@
+<?php
+
+print("jebac legie");
+
+
+?>
